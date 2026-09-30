@@ -1,0 +1,2 @@
+# premium-turbine-001-water-turbine-pelton-wheel-noz
+Tired of losing track of nozzle geometry tweaks across scattered spreadsheets and sticky notes? This Notion template centralizes your Pelton wheel nozzle design iterations, efficiency calculations, and test data so you can converge on the optimal jet profile faster.  It solves the chaos of managing multiple nozzle variants, pressure tests, and perf
